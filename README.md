@@ -11,6 +11,8 @@ Dengan fitur "Tambah Data" user dapat memasukkan data baru ke dalam tabel yang t
 Dengan fitur "Sortir Data" user dapat mengurutkan data-data yang telah ada dengan beberapa pilihan yaitu, pengurutan berdasarkan:
 
   📍 "Nama", "NIM", atau "IPK"
+  
   📍 "Selection Sort" atau "Insertion Sort" 
+  
   📍 "Ascending" atau "Descending"
 
