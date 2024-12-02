@@ -1,3 +1,7 @@
+//  Nama    : Nofa Nisrina Salsabila
+//  NIM     : 235150700111005
+//  Kelas   : Algoritma Dan Struktur Data (C)
+
 public class Mahasiswa {
     private String NIM;
     private String Nama;
