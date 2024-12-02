@@ -1,6 +1,6 @@
-💾Program Mengurutkan Data Mahasiswa💾
+**PROGRAM MENGURUTKAN DATA MAHASISWA**
 
-_Made by: Nofa Nisrina Salsabila (235150700111005)_
+_💾 Made by: Nofa Nisrina Salsabila (235150700111005)_
 
 Pada program yang dibuat, user dapat melakukan sorting data mahasiswa melalui Nama, NIM, dan IPK mereka. Dalam program ini, user memiliki 2 fitur utama yaitu Tambah Data dan Sortir Data.
 
