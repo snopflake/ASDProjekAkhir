@@ -9,10 +9,10 @@ Pada program yang dibuat, user dapat melakukan sorting data mahasiswa melalui Na
 
 Dengan fitur "Tambah Data" user dapat memasukkan data baru ke dalam tabel yang telah tercipta dalam GUI, bersama data dummy (contoh data) yang tersedia.
 Dengan fitur "Sortir Data" user dapat mengurutkan data-data yang telah ada dengan beberapa pilihan yaitu, pengurutan berdasarkan:
-
-  📍 "Nama", "NIM", atau "IPK"
   
-  📍 "Selection Sort" atau "Insertion Sort" 
-  
-  📍 "Ascending" atau "Descending"
+    📍 "Nama", "NIM", atau "IPK"
+    
+    📍 "Selection Sort" atau "Insertion Sort" 
+    
+    📍 "Ascending" atau "Descending"
 
